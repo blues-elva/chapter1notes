@@ -1,0 +1,13 @@
+# Quarto build folders
+_site/
+_freeze/
+.quarto/
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS files
+.DS_Store
+Thumbs.db
